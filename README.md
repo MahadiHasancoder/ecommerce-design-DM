@@ -1,4 +1,4 @@
 # ecommerce-design-DM
 Aladin
 
-live: https://mahadihasancoder.github.io/ecommerce-design-DM/
+live: https://mahadidev7.github.io/ecommerce-design-DM/
